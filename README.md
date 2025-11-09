@@ -1,5 +1,5 @@
-# ✨ Clicks & Cart 🛒✨
-Clicks & Cart is a comprehensive e-commerce platform built to provide users with a seamless online shopping experience. Developed using MERN stack, the platform combines an intuitive frontend with a robust backend to support features like product browsing, cart management, and order processing.
+# ✨ Cartmate 🛒✨
+Cartmate is a comprehensive e-commerce platform built to provide users with a seamless online shopping experience. Developed using MERN stack, the platform combines an intuitive frontend with a robust backend to support features like product browsing, cart management, and order processing.
 
 ## 🚀 Features
 - Product Catalog: Browse an extensive collection of items with detailed descriptions and images.
