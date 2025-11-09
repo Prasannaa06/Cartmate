@@ -34,4 +34,6 @@ Make sure you have the following installed:
 - Rating Functionality: Allow users to rate items.
   
 ## 👤 Author
+- **[Sri Laxmi Prasanna](https://github.com/Prasannaa06)** - Developer
 - **[Harsha Hemanth](https://github.com/Harsha-Hemanth)** - Developer & Maintainer
+
